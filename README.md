@@ -82,18 +82,15 @@ Loading the 1 GB file can take up to a minute. Only the 6 needed columns are rea
 4. Compares the best bin with the Free, 0.01-4.99 and 60+ bins: the difference of
    the means with its uncertainty sigma = sqrt(SEM_a^2 + SEM_b^2), and how many
    sigma apart the two means are.
-5. Robustness check: repeats the per-bin summary using only games with at least 50 reviews.
-6. Saves three plots.
+5. Saves two plots.
 
 ## Output
 
-Results are printed in the terminal, and three figures are saved in the project folder:
+Results are printed in the terminal, and two figures are saved in the project folder:
 
 - `satisfaction_vs_price.png` – mean satisfaction ± SEM (red) and median (grey) per price bin
 - `price_distribution.png` – number of games per price bin
-- `satisfaction_boxplot.png` – spread of satisfaction within each price bin
 
-![Satisfaction vs price](satisfaction_vs_price.png)
 
 ## Use of generative AI
 
@@ -105,8 +102,6 @@ and understood by the author.
 ## Repository contents
 
 | File | Description |
-|------|-------------|
 | `steam_analysis.py` | Analysis code |
-| `report.pdf` | Short report (2 pages, written in LaTeX on Overleaf) |
-| `*.png` | Figures produced by the script |
+| `report.pdf` | Short report (written in LaTeX on Overleaf) |
 | `README.md` | This file |
