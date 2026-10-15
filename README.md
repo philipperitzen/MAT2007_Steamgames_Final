@@ -5,18 +5,6 @@ MAT2007 project: analysing how Steam game prices relate to user review satisfact
 Final project for **MAT2007 Introduction to Programming**, Maastricht University (MSP).
 Author: Philippe Ritzen (i6249899)
 
-## Research question
-
-How does the price of a game on Steam relate to player satisfaction, measured as the
-proportion of positive user reviews, and is there a price range in which satisfaction
-is highest?
-
-Satisfaction of one game is defined as:
-
-```
-satisfaction = positive / (positive + negative)
-```
-
 ## Dataset
 
 - **Source:** Sidorowicz, H. (2026). *Steam games dataset (daily updates)*. Kaggle.
