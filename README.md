@@ -47,12 +47,12 @@ This leaves **55,894 games** (about 144 million reviews, 96% of all reviews in t
 ## Requirements
 
 - Python 3.10 or newer
-- Packages: `numpy`, `pandas`, `matplotlib` (version 3.9 or newer)
+- Packages: `numpy`, `pandas`, `matplotlib` 
 
 Install them with:
 
 ```bash
-pip install numpy pandas "matplotlib>=3.9"
+pip install numpy pandas matplotlib
 ```
 
 ## How to run
