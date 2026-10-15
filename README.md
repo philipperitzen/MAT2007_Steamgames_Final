@@ -95,6 +95,13 @@ Results are printed in the terminal, and three figures are saved in the project 
 
 ![Satisfaction vs price](satisfaction_vs_price.png)
 
+## Use of generative AI
+
+The AI assistant Claude (Anthropic) was used to help write and debug parts of the analysis
+code, and to help structure parts of the report in Overleaf. All results
+were produced by running the code on the dataset, and all choices in the analysis were checked
+and understood by the author.
+
 ## Repository contents
 
 | File | Description |
