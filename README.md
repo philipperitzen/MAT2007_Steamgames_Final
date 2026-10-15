@@ -3,7 +3,7 @@ MAT2007 project: analysing how Steam game prices relate to user review satisfact
 # At what price are Steam players most satisfied?
 
 Final project for **MAT2007 Introduction to Programming**, Maastricht University (MSP).
-Author: Philippe Ritzen
+Author: Philippe Ritzen (i6249899)
 
 ## Research question
 
